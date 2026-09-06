@@ -1,4 +1,5 @@
+reports/
+parsed/
 __pycache__/
 *.pyc
-*.pyo
-.DS_Store
+.pytest_cache/
