@@ -5,7 +5,11 @@
 > [SCOPE.md](SCOPE.md) before use. Use at your own risk; **AS IS**, no warranty.
 # D5 — Registry Analyzer
 
-Windows registry hive parser and timeline generator for digital forensics.
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
+
+Windows registry hive parser and timeline generator for digital forensics and
+incident response — user activity, autorun, and program-execution artifacts.
 
 ## Overview
 
@@ -101,4 +105,14 @@ If you discover vulnerabilities using this tool, follow responsible disclosure p
 
 ## License
 
-MIT
+MIT — see [LICENSE](LICENSE). Educational and authorized testing use only.
+
+## Contributing
+
+See [CONTRIBUTING.md](CONTRIBUTING.md) and [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md).
+Report security issues via [SECURITY.md](SECURITY.md).
+
+## Documentation
+
+- [ETHICS.md](ETHICS.md) — usage policy
+- [SCOPE.md](SCOPE.md) — authorized testing scope
